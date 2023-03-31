@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ea688dd9-5914-4a29-95ed-ec7f4f058eeb" name="Changes" comment="학교 문제 풀이">
       <change afterPath="$PROJECT_DIR$/src/main/java/GUGUDAN3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GUGUDAN4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/STAR1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/STAR2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,14 +69,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GUGUDAN4">
-    <configuration name="GUGUDAN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GUGUDAN" />
-      <module name="KOPO" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.STAR2">
     <configuration name="GUGUDAN2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GUGUDAN2" />
       <module name="KOPO" />
@@ -97,8 +91,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QZ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QZ1" />
+    <configuration name="STAR1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STAR1" />
+      <module name="KOPO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="STAR2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STAR2" />
       <module name="KOPO" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.STAR2" />
+        <item itemvalue="Application.STAR1" />
         <item itemvalue="Application.GUGUDAN4" />
         <item itemvalue="Application.GUGUDAN3" />
         <item itemvalue="Application.GUGUDAN2" />
-        <item itemvalue="Application.GUGUDAN" />
-        <item itemvalue="Application.QZ1" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +126,8 @@
       <workItem from="1679573132038" duration="952000" />
       <workItem from="1679617977975" duration="150000" />
       <workItem from="1680069036952" duration="658000" />
-      <workItem from="1680100660035" duration="5418000" />
+      <workItem from="1680100660035" duration="6429000" />
+      <workItem from="1680238917595" duration="3062000" />
     </task>
     <task id="LOCAL-00001" summary="학교 문제 풀이">
       <created>1679573918711</created>
@@ -148,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680069659194</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="학교 문제 풀이">
+      <created>1680155449618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680155449618</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
